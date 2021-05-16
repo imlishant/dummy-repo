@@ -1,0 +1,6 @@
+# file
+Location : dummy-repo/dummycheckmate/dummy/check/mate/matefile.txt
+
+Correct OR not?
+
+which files gets added first in the repo, is to be checked.

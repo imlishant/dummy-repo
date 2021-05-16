@@ -1,0 +1,6 @@
+# file
+
+Locaton : cpp/dummycheckmate/dummycheckmatefile.txt
+
+created 4;
+

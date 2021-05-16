@@ -1,0 +1,5 @@
+# file
+
+Location: dummycheckmate/dummy/dummyfile.txt
+
+created 3;
